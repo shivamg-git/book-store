@@ -1,0 +1,19 @@
+
+Advanced Engineering Maths
+RK Jain
+scientific
+narosa
+500
+50
+Data Structures
+Seymour Lipchutz
+scientific
+schaums
+350
+100
+Mechanical Engineering
+Ajoy Ghatak
+scientific
+Hari Books
+300
+43
