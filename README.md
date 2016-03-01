@@ -7,4 +7,4 @@ fictional
 non-fictional
 science-fiction
 
-admin can add entry of books to database(files) and general user can buy or view for books.
+Employee can add entry of books to database(files) and costomers can buy or view for books.
